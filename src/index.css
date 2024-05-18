@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background:linear-gradient(to right, #FFDEE9, #B5FFFC); 
+}
+
+
+
+/*
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #E0E0E0, #B3E0E0);
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #FFD9B3, #FFB3D1);
+}
+   */
